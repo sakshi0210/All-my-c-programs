@@ -1,2 +1,2 @@
-# All-my-c-programs
-This repo includes all c programs done by me 
+# All-my-python-programs
+This repo includes all python programs done by me 
